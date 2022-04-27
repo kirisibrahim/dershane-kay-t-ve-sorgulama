@@ -1,0 +1,39 @@
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe.config
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\bin\Debug\DershaneProj.pdb
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csprojAssemblyReference.cache
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.AnaForm.resources
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.KursKayitIslemleri.resources
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OgrenciKayitIslemleri.resources
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.Properties.Resources.resources
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.GenerateResource.cache
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.CoreCompileInputs.cache
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.exe
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.pdb
+C:\Users\AbdulkadirSen\Desktop\BODEV\C#\SQL - C# Hastane - Dershane\C# Dershane\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OrnekSorgular.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe.config
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\bin\Debug\DershaneProj.pdb
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csprojAssemblyReference.cache
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.AnaForm.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.KursKayitIslemleri.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OgrenciKayitIslemleri.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OrnekSorgular.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.Properties.Resources.resources
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.GenerateResource.cache
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.CoreCompileInputs.cache
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.exe
+C:\Users\kiris\Desktop\DershaneProj\DershaneProj\obj\Debug\DershaneProj.pdb
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe.config
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\bin\Debug\DershaneProj.exe
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\bin\Debug\DershaneProj.pdb
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.AnaForm.resources
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.KursKayitIslemleri.resources
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OgrenciKayitIslemleri.resources
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.OrnekSorgular.resources
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.Properties.Resources.resources
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.GenerateResource.cache
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.CoreCompileInputs.cache
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.exe
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.pdb
+C:\Users\kiris\Desktop\dersler\projeler\DershaneProj\DershaneProj\obj\Debug\DershaneProj.csproj.AssemblyReference.cache
