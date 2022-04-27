@@ -1,1 +1,0 @@
-# dershane-kayit-ve-sorgulama
