@@ -1,2 +1,2 @@
-# dershane-kay-t-ve-sorgulama
+# dershane-kayit-ve-sorgulama
 exe. bin/debug içindedir.
